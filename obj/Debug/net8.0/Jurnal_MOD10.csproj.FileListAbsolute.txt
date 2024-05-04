@@ -30,3 +30,4 @@ D:\Jurnal_MOD10\obj\Debug\net8.0\refint\Jurnal_MOD10.dll
 D:\Jurnal_MOD10\obj\Debug\net8.0\Jurnal_MOD10.pdb
 D:\Jurnal_MOD10\obj\Debug\net8.0\Jurnal_MOD10.genruntimeconfig.cache
 D:\Jurnal_MOD10\obj\Debug\net8.0\ref\Jurnal_MOD10.dll
+D:\Jurnal_MOD10\obj\Debug\net8.0\Jurnal_MOD10.sourcelink.json
